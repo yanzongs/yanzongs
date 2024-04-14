@@ -54,11 +54,10 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/posts/kunlunchao/' target='_blank'>昆仑巢「疯狂星期六」，没有人是一座孤岛～</a> - 2024-03-18
-* <a href='https://blog.sunguoqi.com/posts/yuanze/' target='_blank'>你好，北京！你好，原则科技！一切都是最好的安排！</a> - 2024-03-10
-* <a href='https://blog.sunguoqi.com/posts/2023/' target='_blank'>行则将至，未来可期，和 2023 好好说声再见吧！</a> - 2024-02-20
-* <a href='https://blog.sunguoqi.com/posts/xizang/' target='_blank'>西藏之旅｜青春没有售价，火车直达拉萨！</a> - 2024-02-16
-* <a href='https://blog.sunguoqi.com/posts/zhuhai/' target='_blank'>珠海之旅｜去感受风，去聆听海，去触摸，去抵达</a> - 2024-01-03
+* <a href='https://yanzongs.cn/2023/05/Book-DomesticFirst/' target='_blank'>Book - 《庄子》书评～</a> - 2023-05-24
+* <a href='https://yanzongs.cn/2022/08/STM32-SystemClock/' target='_blank'>STM32 - 系统时钟树分析</a> - 2022-08-15
+* <a href='https://yanzongs.cn/2022/08/STM32-PortCommus/' target='_blank'>STM32 - 串口通信(HAL库)</a> - 2022-08-14
+* <a href='https://yanzongs.cn/2022/04/CREATION-SakuraPorm/' target='_blank'>Porm - 樱花词五首</a> - 2022-04-03
 <!-- END_SECTION:blog -->
 
 </td></tr>
