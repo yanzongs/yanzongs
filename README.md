@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=yanzongs&show_icons=true&theme=transparent)
 
+## Technologies I use
+
+![Visitor Count](https://profile-counter.glitch.me/yanzongs/count.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanzongs&layout=compact&theme=tokyonight)
